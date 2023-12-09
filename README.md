@@ -30,7 +30,7 @@ Obviously, it should just be a starting point for your application process and y
 Other GitHub repos to help you with Academic Success.
 
 ### LaTex Template
-Visit my LaTex Template repo for a template to start writing academic publications in LaTex quick: [LaTex Template](https://github.com/JDLanctot/latex_template). [[Latex Scientific Writing Template]]
+Visit my LaTex Template repo for a template to start writing academic publications in LaTex quick: [LaTex Template](https://github.com/JDLanctot/latex_template).
 
 ### My Dotfiles
-Visit My Dotfiles repo for instructions and code to setup a Windows Computer for doing Scientific Research Coding: [My Dotfiles](https://github.com/JDLanctot/dotfiles). [[My Dotfiles]]
+Visit My Dotfiles repo for instructions and code to setup a Windows Computer for doing Scientific Research Coding: [My Dotfiles](https://github.com/JDLanctot/dotfiles).

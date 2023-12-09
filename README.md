@@ -1,4 +1,4 @@
-#Scholarship Applications
+# Scholarship Applications
 Scholarship Applications is a collection of files that show the content and styling of how I submit for grants -- such as NSERC. Hopefully, this might be helpful in helping you be successful in obtaining similar grants. Also I have directly included some other templates for academic success, linked at the end of this document.
   
 ## Table of Contents
@@ -8,8 +8,8 @@ Scholarship Applications is a collection of files that show the content and styl
 - [Academic Resources](#academic-resources)
   - [LaTex Template](#latex-template)
   - [My Dotfiles](#my-dotfiles)
-- [[#Contributing|Contributing]]
-- [[#License|License]]
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Scholarship Applications
 

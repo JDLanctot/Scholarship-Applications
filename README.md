@@ -1,18 +1,15 @@
-<link rel="stylesheet" href="https://raw.githubusercontent.com/JDLanctot/readme_formatting/main/assets/css/basic.css">
-<h1 align="center">
-  Scholarship Applications
-</h1>
-
-<p align="center">
-  Scholarship Applications is a collection of files that show the content and styling of how I submit for grants -- such as NSERC. Hopefully, this might be helpful in helping you be successful in obtaining similar grants. Also I have directly included some other templates for academic success, linked at the end of this document.
+#Scholarship Applications
+Scholarship Applications is a collection of files that show the content and styling of how I submit for grants -- such as NSERC. Hopefully, this might be helpful in helping you be successful in obtaining similar grants. Also I have directly included some other templates for academic success, linked at the end of this document.
   
 ## Table of Contents
 
 - [Scholarship Applications](#scholarship-applications)
 - [Prompt Engineering and Getting a First Draft](#prompt-engineering-and-getting-a-first-draft)
-- [Academic Resouces](#academic-resources)
+- [Academic Resources](#academic-resources)
   - [LaTex Template](#latex-template)
   - [My Dotfiles](#my-dotfiles)
+- [[#Contributing|Contributing]]
+- [[#License|License]]
 
 ## Scholarship Applications
 
@@ -29,11 +26,11 @@ You can give ChatGPT any block of code any get it to write your context in that 
 
 Obviously, it should just be a starting point for your application process and you need to work on to make your the output your own, but this should make it easier to learn the application process, and give you ideas on ways to mimic my style of writing. Be better and use GPTs as tools to suplement the ideas in your heads, not to offload work in a way that leaves you never learning the skill in the end.
 
-## Academic Resouces
+## Academic Resources
 Other GitHub repos to help you with Academic Success.
 
 ### LaTex Template
-Visit my LaTex Template repo for a template to start writing academic publications in LaTex quick: [LaTex Template](https://github.com/JDLanctot/latex_template).
+Visit my LaTex Template repo for a template to start writing academic publications in LaTex quick: [LaTex Template](https://github.com/JDLanctot/latex_template). [[Latex Scientific Writing Template]]
 
 ### My Dotfiles
-Visit My Dotfiles repo for instructions and code to setup a Windows Computer for doing Scientific Research Coding: [My Dotfiles](https://github.com/JDLanctot/dotfiles).
+Visit My Dotfiles repo for instructions and code to setup a Windows Computer for doing Scientific Research Coding: [My Dotfiles](https://github.com/JDLanctot/dotfiles). [[My Dotfiles]]

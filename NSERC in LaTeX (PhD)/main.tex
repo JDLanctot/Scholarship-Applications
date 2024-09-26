@@ -1,0 +1,47 @@
+% Gets the style guide to apply to the document such as font sizes for various wrappers, spacing before and after sections, etc.
+% \documentclass[letterpaper,twoside,openright]{document-formatting} %this is for double sided alternating the extra margin on left and right pages
+\documentclass[letterpaper,onesided,openright]{document-formatting}
+% NOTE THAT THE SECOND LAST LINE OF DOCUMENT-FORMATTING.CLS LETS YOU CHANGE THE CITATION STYLE
+
+% Hides addition of external plugins
+\input{Sections/0-header}\unskip
+
+\begin{document}
+
+% Title Page
+\input{Sections/00-title}
+
+% Table of Contents if you want it.
+% \newpage
+% \input{Sections/000-table-of-contents}
+
+% Outline of proposed research
+\newpage
+\pagestyle{fancyArabic}
+\input{Sections/1-edi-in-research}
+
+% Outline of proposed research
+\newpage
+\input{Sections/2-outline-of-proposed-research}
+
+% Justification for eligibility of proposed research
+\newpage
+\input{Sections/3-justification-for-eligibility-of-proposed-research}
+
+% Contributions
+\newpage
+\input{Sections/4-contributions}
+
+% Results
+% \clearpage
+% \input{Sections/5-results}
+
+% Discussion and Conclusion
+% \clearpage
+% \input{Sections/6-discussion}
+
+% References
+\newpage
+\input{Sections/7-references}
+
+\end{document}

@@ -144,7 +144,7 @@
 \newenvironment{contributions}{%
     \pagestyle{fancyArabic}
     % \addcontentsline{toc}{section}{Contributions}
-    \section*{Contributions}
+    % \section*{Contributions}
     \setlength{\parindent}{0in}%
     }{}
     
